@@ -130,7 +130,7 @@ font-weight: bold;
 }
 .header.active .navbar-brand .logo{
 	margin-top: 10px;
-	color: black;
+	color:#d64161;
 	font-weight: bold;
 	/*background-image: url(../img/black_logo.png);*/
 	display: inline-block;
